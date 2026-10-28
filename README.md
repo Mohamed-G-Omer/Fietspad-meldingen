@@ -251,7 +251,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 - [Leaflet](https://leafletjs.com/) for the mapping library
 - [Geoserver](https://geoserver.org/) for WMS Publishing
 - Full Stack MERN Bootcamp - Matrix Master
-
----
-
-<p align="center">Made by <strong>Group 17</strong></p>
